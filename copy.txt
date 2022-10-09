@@ -1,0 +1,9 @@
+[{'id': 4, 'name': 'Seattle', 'created_at': None, 'updated_at': None, 'ninjas.id': 4, 'first_name': 'Tom', 'last_name': 'Brady', 'age': 45, 'ninjas.created_at': None, 'ninjas.updated_at': None, 'dojo_id': 4},
+{'id': 4, 'name': 'Seattle', 'created_at': None, 'updated_at': None, 'ninjas.id': 5, 'first_name': 'Joe', 'last_name': 'Burrow', 'age': 25, 'ninjas.created_at': None, 'ninjas.updated_at': None, 'dojo_id': 4},
+{'id': 4, 'name': 'Seattle', 'created_at': None, 'updated_at': None, 'ninjas.id': 6, 'first_name': 'Aaron', 'last_name': 'Rodgers', 'age': 38, 'ninjas.created_at': None, 'ninjas.updated_at': None, 'dojo_id': 4},
+{'id': 5, 'name': 'San Jose', 'created_at': None, 'updated_at': None, 'ninjas.id': 7, 'first_name': 'LeBron', 'last_name': 'James', 'age': 37, 'ninjas.created_at': None, 'ninjas.updated_at': None, 'dojo_id': 5},
+{'id': 5, 'name': 'San Jose', 'created_at': None, 'updated_at': None, 'ninjas.id': 8, 'first_name': 'Kevin', 'last_name': 'Durant', 'age': 34, 'ninjas.created_at': None, 'ninjas.updated_at': None, 'dojo_id': 5},
+{'id': 5, 'name': 'San Jose', 'created_at': None, 'updated_at': None, 'ninjas.id': 9, 'first_name': 'Nikola', 'last_name': 'Jokic', 'age': 27, 'ninjas.created_at': None, 'ninjas.updated_at': None, 'dojo_id': 5},
+{'id': 6, 'name': 'Burbank', 'created_at': None, 'updated_at': None, 'ninjas.id': 10, 'first_name': 'Aaron', 'last_name': 'Judge', 'age': 30, 'ninjas.created_at': None, 'ninjas.updated_at': None, 'dojo_id': 6},
+{'id': 6, 'name': 'Burbank', 'created_at': None, 'updated_at': None, 'ninjas.id': 11, 'first_name': 'Mike', 'last_name': 'Trout', 'age': 31, 'ninjas.created_at': None, 'ninjas.updated_at': None, 'dojo_id': 6},
+{'id': 6, 'name': 'Burbank', 'created_at': None, 'updated_at': None, 'ninjas.id': 12, 'first_name': 'Kris', 'last_name': 'Bryant', 'age': 30, 'ninjas.created_at': None, 'ninjas.updated_at': None, 'dojo_id': 6}]
